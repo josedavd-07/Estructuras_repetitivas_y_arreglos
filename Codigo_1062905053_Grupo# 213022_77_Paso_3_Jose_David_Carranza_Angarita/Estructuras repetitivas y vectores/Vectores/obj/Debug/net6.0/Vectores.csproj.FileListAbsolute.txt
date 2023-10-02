@@ -1,0 +1,14 @@
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\bin\Debug\net6.0\Vectores.exe
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\bin\Debug\net6.0\Vectores.deps.json
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\bin\Debug\net6.0\Vectores.runtimeconfig.json
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\bin\Debug\net6.0\Vectores.dll
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\bin\Debug\net6.0\Vectores.pdb
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\obj\Debug\net6.0\Vectores.GeneratedMSBuildEditorConfig.editorconfig
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\obj\Debug\net6.0\Vectores.AssemblyInfoInputs.cache
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\obj\Debug\net6.0\Vectores.AssemblyInfo.cs
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\obj\Debug\net6.0\Vectores.csproj.CoreCompileInputs.cache
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\obj\Debug\net6.0\Vectores.dll
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\obj\Debug\net6.0\refint\Vectores.dll
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\obj\Debug\net6.0\Vectores.pdb
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\obj\Debug\net6.0\Vectores.genruntimeconfig.cache
+D:\INGENIERIA DE SISTEMAS\Codigo_Grupo#_Paso3_JoseDavidCarranzaAngarita\Estructuras repetitivas y vectores\Vectores\obj\Debug\net6.0\ref\Vectores.dll
